@@ -137,7 +137,7 @@
                         <action id="7" name="Set horizontal alignment" sid="6681899051898119" type="DefaultFont">
                             <param id="0" name="Horizontal alignment">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="121948490218354" type="Function">
+                        <!--action id="0" name="Call function" sid="121948490218354" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
                             <param id="1" name="Parameter {n}">0{###}192{###}96{###}0{###}&quot;Normal&quot;{###}&quot;MenuModeNormal&quot;</param>
                         </action>
@@ -148,15 +148,15 @@
                         <action id="0" name="Call function" sid="304790185942551" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
                             <param id="1" name="Parameter {n}">0{###}192{###}160{###}2{###}&quot;Endless&quot;{###}&quot;MenuModeEndless&quot;</param>
-                        </action>
+                        </action-->
                         <action id="0" name="Call function" sid="326311762535984" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
                             <param id="1" name="Parameter {n}">0{###}192{###}192{###}3{###}&quot;Single attack&quot;{###}&quot;MenuModeSingle&quot;</param>
                         </action>
-                        <action id="0" name="Call function" sid="516406951993025" type="Function">
+                        <!--action id="0" name="Call function" sid="516406951993025" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
                             <param id="1" name="Parameter {n}">0{###}192{###}224{###}4{###}&quot;Custom attack&quot;{###}&quot;MenuModeCustom&quot;</param>
-                        </action>
+                        </action-->
                     </actions>
                 </event-block>
                 <event-block sid="1934787540782705">
